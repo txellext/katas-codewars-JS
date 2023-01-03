@@ -27,7 +27,7 @@ Solutions link:
 */
 
 
-// Solution
+// My Solution
 function areYouPlayingBanjo(name) {
     for (let letter of name) {
       if (letter == "R" || letter == "r") {
