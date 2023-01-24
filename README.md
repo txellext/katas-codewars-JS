@@ -5,16 +5,18 @@
 
 ### Table of Contents
 
-- [⭐Introduction](#⭐introduction)
+- [Introduction](#introduction)
 - [🦋 Goals](#🦋-goals)
 - [👷 Authors](#👷-authors)
-- [🛠️ Repository Structure](#🛠️-repository-structure)
-- [🌐 Built with](#🌐-built-with)
+- [Repository Structure 🛠️](#repository-structure-🛠️)
+- [Built with ](#built-with)
+🌐
 
 <br>
 
-### ⭐Introduction
+### Introduction
 
+⭐
 Solutions with tests and tutorials for <a href="https://www.codewars.com">Codewars</a> katas.
 
 -What's a Kata?
@@ -45,7 +47,7 @@ Codewarriors are strongly encouraged not to look at your solutions to Kata until
 
 <br>
 
-### 🛠️ Repository Structure
+### Repository Structure 🛠️
 
 There's a folder for each kata nested in its own kyu:
 
@@ -63,7 +65,7 @@ There's a folder for each kata nested in its own kyu:
 │   └── ...
 ```
 
-### 🌐 Built with
+### Built with
 
 -JavaScript
 
@@ -72,3 +74,6 @@ There's a folder for each kata nested in its own kyu:
 <br>
 
 <p align="center"> Learning with ❤️passion❤️ in BCN</p>
+
+
+[def]: #repository-structure-🛠️
