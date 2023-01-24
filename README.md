@@ -5,8 +5,8 @@
 
 ### Table of Contents
 
-- [Introduction](#introduction) 
-⭐
+⭐ - [Introduction](#introduction) 
+
 - [Goals](#goals) 
 🦋
 - [Authors](#authors) 
@@ -18,7 +18,7 @@
 
 <br>
 
-### Introduction ⭐
+### Introduction 
 
 
 Solutions with tests and tutorials for <a href="https://www.codewars.com">Codewars</a> katas.
@@ -35,7 +35,7 @@ A codewarrior is the user/coder who practice katas in Codewars.
 <br>
 
 ### Goals
-🦋
+
 Being a Codewarrior and practicing katas helped me to improve my algorithmic thinking.
 
 Codewarriors are strongly encouraged not to look at your solutions to Kata until we have completed it ourselves.
@@ -43,7 +43,7 @@ Codewarriors are strongly encouraged not to look at your solutions to Kata until
 <br>
 
 ### Authors
-👷
+
 
 |                     | Name                | GitHub              |
 | :------------------ | :------------------ | :------------------ |
@@ -51,7 +51,7 @@ Codewarriors are strongly encouraged not to look at your solutions to Kata until
 
 <br>
 
-### Repository Structure 🛠️
+### Repository Structure 
 
 There's a folder for each kata nested in its own kyu:
 
