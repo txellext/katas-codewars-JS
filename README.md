@@ -1,11 +1,11 @@
 <br> 
 <h1 align="center"> 🥋 Katas Codewars JS 🥋</h1>
-
+<br>
 
 
 ### Table of Contents
 
-- [⭐ Introduction](#⭐-introduction)
+- [⭐Introduction](#⭐introduction)
 - [🦋 Goals](#🦋-goals)
 - [👷 Authors](#👷-authors)
 - [🛠️ Repository Structure](#🛠️-repository-structure)
@@ -13,7 +13,7 @@
 
 <br>
 
-### ⭐ Introduction
+### ⭐Introduction
 
 Solutions with tests and tutorials for <a href="https://www.codewars.com">Codewars</a> katas.
 
