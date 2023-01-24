@@ -1,6 +1,6 @@
 <br> 
 <h1 align="center"> 🥋 Katas Codewars JS 🥋</h1>
-<br>
+
 
 
 ### Table of Contents
@@ -11,6 +11,7 @@
 - [🛠️ Repository Structure](#🛠️-repository-structure)
 - [🌐 Built with](#🌐-built-with)
 
+<br>
 
 ### ⭐ Introduction
 
@@ -25,6 +26,7 @@ It is a digit that determines kata difficulty level as well as the user rank on 
 -and a codewarrior?
 A codewarrior is the user/coder who practice katas in Codewars. 
 
+<br>
 
 ### 🦋 Goals
 
@@ -32,6 +34,7 @@ Being a Codewarrior and practicing katas helped me to improve my algorithmic thi
 
 Codewarriors are strongly encouraged not to look at your solutions to Kata until we have completed it ourselves.
 
+<br>
 
 ### 👷 Authors
 
@@ -40,6 +43,7 @@ Codewarriors are strongly encouraged not to look at your solutions to Kata until
 | :------------------ | :------------------ | :------------------ |
 | <a href="https://github.com/txellext"><img src="https://avatars.githubusercontent.com/u/108218084?v=4" width="60" height="60" style="border-radius: 50%" alt="jar avatar"></a> | **Txell Amigó** | [**@txellext**](https://github.com/txellext) | 
 
+<br>
 
 ### 🛠️ Repository Structure
 
@@ -65,6 +69,6 @@ There's a folder for each kata nested in its own kyu:
 
 -Visual Studio Code
 
-
+<br>
 
 <p align="center"> Learning with ❤️passion❤️ in BCN</p>
