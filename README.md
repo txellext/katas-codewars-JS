@@ -1,34 +1,50 @@
-<h1 align="center">Katas Codewars JS</h1>
+<br>
+<h1 align="center"> 🥋 Katas Codewars JS 🥋</h1>
+<br>
 
 ### Table of Contents
 
-- [Introduction](#introduction)
-- [Purpose](#purpose)
-- [Repository Structure](#repository-structure)
+- [⭐ Introduction](#⭐-introduction)
+- [🦋 Goals](#🦋-goals)
+- [👷 Authors](#👷-authors)
+- [🛠️ Repository Structure](#🛠️-repository-structure)
+- [🌐 Built with](#🌐-built-with)
 
-### Introduction
+
+### ⭐ Introduction
+<br>
 
 Solutions with tests and tutorials for <a href="https://www.codewars.com">Codewars</a> katas.
 
 -What's a Kata?
 It is an algorithm you have to solve in any programming language you desire (JS in this repo)
 
-- What is Kyu?
+-What is Kyu?
 It is a digit that determines kata difficulty level as well as the user rank on the platform
 
-- and a codewarrior?
+-and a codewarrior?
 A codewarrior is the user/coder who practice katas in Codewars. 
 
 
-
-### Purpose
+### 🦋 Goals
+<br>
 
 Being a Codewarrior and practicing katas helped me to improve my algorithmic thinking.
 
-Codewarriors are strongly encouraged not to look at your solutions to Kata until they have completed it themselves
+Codewarriors are strongly encouraged not to look at your solutions to Kata until we have completed it ourselves.
 
-### Repository Structure
-There's a folder for each kata nested in its own kyu
+
+### 👷 Authors
+<br>
+
+|                     | Name                | GitHub              |
+| :------------------ | :------------------ | :------------------ |
+| <a href="https://github.com/txellext"><img src="https://avatars.githubusercontent.com/u/108218084?v=4" width="60" height="60" style="border-radius: 50%" alt="jar avatar"></a> | **Txell Amigó** | [**@txellext**](https://github.com/txellext) | 
+
+
+### 🛠️ Repository Structure
+<br>
+There's a folder for each kata nested in its own kyu:
 
 ```ascii
 ├── 8-kyu/
@@ -43,3 +59,13 @@ There's a folder for each kata nested in its own kyu
 │   │   └── test.js
 │   └── ...
 ```
+
+### 🌐 Built with
+<br>
+
+-JavaScript
+-Visual Studio Code
+
+
+
+<p align="center"> Learning with ❤️passion❤️ in BCN</p>
