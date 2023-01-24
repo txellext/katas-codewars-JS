@@ -5,16 +5,16 @@
 
 ### Table of Contents
 
-⭐ - [Introduction](#introduction) 
+⭐ [Introduction](#introduction) 
 
-- [Goals](#goals) 
-🦋
-- [Authors](#authors) 
-👷
-- [Repository Structure](#repository-structure) 
-🛠️
-- [Built with](#built-with)
-🌐
+🦋 [Goals](#goals) 
+
+👷 [Authors](#authors) 
+
+🛠️ [Repository Structure](#repository-structure) 
+
+🌐 [Built with](#built-with)
+
 
 <br>
 
