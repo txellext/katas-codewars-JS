@@ -1,5 +1,4 @@
-<br>
-<h1 align="center"> 🥋 Katas Codewars JS 🥋</h1>
+<br> <h1 align="center"> 🥋 Katas Codewars JS 🥋</h1>
 <br>
 
 ### Table of Contents
