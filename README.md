@@ -1,7 +1,5 @@
 <br> 
-
 <h1 align="center"> 🥋 Katas Codewars JS 🥋</h1>
-
 <br>
 
 
@@ -15,8 +13,6 @@
 
 
 ### ⭐ Introduction
-
-<br>
 
 Solutions with tests and tutorials for <a href="https://www.codewars.com">Codewars</a> katas.
 
@@ -32,8 +28,6 @@ A codewarrior is the user/coder who practice katas in Codewars.
 
 ### 🦋 Goals
 
-<br>
-
 Being a Codewarrior and practicing katas helped me to improve my algorithmic thinking.
 
 Codewarriors are strongly encouraged not to look at your solutions to Kata until we have completed it ourselves.
@@ -41,7 +35,6 @@ Codewarriors are strongly encouraged not to look at your solutions to Kata until
 
 ### 👷 Authors
 
-<br>
 
 |                     | Name                | GitHub              |
 | :------------------ | :------------------ | :------------------ |
@@ -49,8 +42,6 @@ Codewarriors are strongly encouraged not to look at your solutions to Kata until
 
 
 ### 🛠️ Repository Structure
-
-<br>
 
 There's a folder for each kata nested in its own kyu:
 
@@ -70,9 +61,8 @@ There's a folder for each kata nested in its own kyu:
 
 ### 🌐 Built with
 
-<br>
-
 -JavaScript
+
 -Visual Studio Code
 
 
