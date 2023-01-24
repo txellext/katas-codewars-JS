@@ -5,18 +5,22 @@
 
 ### Table of Contents
 
-- [Introduction](#introduction)
-- [🦋 Goals](#🦋-goals)
-- [👷 Authors](#👷-authors)
-- [Repository Structure 🛠️](#repository-structure-🛠️)
-- [Built with ](#built-with)
+- [Introduction](#introduction) 
+⭐
+- [Goals](#goals) 
+🦋
+- [Authors](#authors) 
+👷
+- [Repository Structure](#repository-structure) 
+🛠️
+- [Built with](#built-with)
 🌐
 
 <br>
 
-### Introduction
+### Introduction ⭐
 
-⭐
+
 Solutions with tests and tutorials for <a href="https://www.codewars.com">Codewars</a> katas.
 
 -What's a Kata?
@@ -30,16 +34,16 @@ A codewarrior is the user/coder who practice katas in Codewars.
 
 <br>
 
-### 🦋 Goals
-
+### Goals
+🦋
 Being a Codewarrior and practicing katas helped me to improve my algorithmic thinking.
 
 Codewarriors are strongly encouraged not to look at your solutions to Kata until we have completed it ourselves.
 
 <br>
 
-### 👷 Authors
-
+### Authors
+👷
 
 |                     | Name                | GitHub              |
 | :------------------ | :------------------ | :------------------ |
