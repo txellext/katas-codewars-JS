@@ -77,7 +77,7 @@ There's a folder for each kata nested in its own kyu:
 
 <br>
 
-<p align="center"> Learning with ❤️passion❤️ in BCN</p>
+<p align="center"> <> with ❤️ in BCN</p>
 
 
 [def]: #repository-structure-🛠️
